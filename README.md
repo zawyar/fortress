@@ -1,2 +1,2 @@
 # fortress
-Fortress is an opinionated framework for developing REST APIs in Node.js
+Fortress is an opinionated template for creating Node JS REST APIs 
